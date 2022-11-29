@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/e-marketing-react-app/static/css/main.ff2f0cc2.css",
+    "main.js": "/e-marketing-react-app/static/js/main.c971c634.js",
+    "index.html": "/e-marketing-react-app/index.html",
+    "main.ff2f0cc2.css.map": "/e-marketing-react-app/static/css/main.ff2f0cc2.css.map",
+    "main.c971c634.js.map": "/e-marketing-react-app/static/js/main.c971c634.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff2f0cc2.css",
+    "static/js/main.c971c634.js"
+  ]
+}
